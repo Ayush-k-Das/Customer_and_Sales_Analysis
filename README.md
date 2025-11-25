@@ -45,7 +45,7 @@ This repository contains:
 
 ## 🧠 **Machine Learning Components**
 
-### **🔹 1. Customer Segmentation (K-Means)**
+### **🔹  Customer Segmentation (K-Means)**
 
 Aim: Group customers based on behavior patterns.
 
@@ -67,12 +67,6 @@ Aim: Group customers based on behavior patterns.
 These allow the model to be reused in production with consistent preprocessing.
 
 ---
-
-### **🔹 2. Customer Resolution Classification Model**
-
-A supervised ML model trained to predict:
-
-> *Whether a customer query will be "Resolved" or "Unresolved".*
 
 This includes:
 
